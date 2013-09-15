@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request category="query" type="GetNewsflashIDs">
+<user user_id="55" />
+<lte newsflash_id="20" />
+<gte newsflash_id="1" />
+</request>
+

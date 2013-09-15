@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request category="query" type="GetNewsflashIDs">
+<segment segment_id="556677" flashboard_id="225544" />
+<idrange>
+<lte newsflash_id="40" />
+<gte newsflash_id="20" />
+</idrange>
+<maxnumber number="5" />
+</request>
+

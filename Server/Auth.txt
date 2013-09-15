@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request category="query" type="Authenticate">
+<loginid username="1234" />
+<password password="********" />
+</request>
+

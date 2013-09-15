@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request category="query" type="GetNewsflashIDs">
+<flashboards>
+<flashboard flashboard_id="223344" />
+<flashboard flashboard_id="32" />
+</flashboards>
+<maxnumber number="15" />
+</request>
+

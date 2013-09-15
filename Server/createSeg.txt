@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request category="modify" type="CreateSegment">
+<segment segment_id="1112" flashboard_id="223344" Name="Dorc Slayer">
+</segment>
+</request>
+

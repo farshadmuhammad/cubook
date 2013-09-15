@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request category="query" type="GetProfiles">
+<users>
+<user user_id="1234" />
+<user user_id="1235" />
+<user user_id="1236" />
+<user user_id="1237" />
+<user user_id="1238" />
+</users>
+</request>
+

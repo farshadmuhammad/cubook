@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request category="modify" type="DeleteNewsflash">
+<newsflash newsflash_id="22" />
+</request>
+

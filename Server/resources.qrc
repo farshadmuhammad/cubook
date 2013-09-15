@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/file">
+        <file>Auth.txt</file>
+        <file>CUBook</file>
+        <file>delSeg.txt</file>
+        <file>getFIDs.txt</file>
+        <file>getFIDsRange.txt</file>
+        <file>getFIDsRangeMax.txt</file>
+        <file>getFIDsUser.txt</file>
+        <file>getFIDsUserRange.txt</file>
+        <file>getFIDsUserRangeMax.txt</file>
+        <file>getFIDsSeg.txt</file>
+        <file>getFIDsSegRange.txt</file>
+        <file>getFIDsSegRangeMax.txt</file>
+        <file>getNewsFlash.txt</file>
+        <file>createSeg.txt</file>
+        <file>delNews.txt</file>
+        <file>getBL.txt</file>
+        <file>createNews.txt</file>
+        <file>upProf.txt</file>
+        <file>getProf.txt</file>
+        <file>UnAuth.txt</file>
+    </qresource>
+</RCC>
